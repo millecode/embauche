@@ -8,7 +8,7 @@ $username = 'root';
 $password = '';
 
 // Connexion à la base des donner en ligne
-$host = 'mysql.b-highagency.com';
+$host = 'localhost';
 $dbname = 'c2374646c_embauche';
 $username = 'c2374646c_ibro';
 $password = 'IBROibro123+';
