@@ -2,10 +2,10 @@
 
 
 // Connexion à la base des donner local
-$host = 'localhost';
-$dbname = 'embauche';
-$username = 'root';
-$password = '';
+// $host = 'localhost';
+// $dbname = 'embauche';
+// $username = 'root';
+// $password = '';
 
 // Connexion à la base des donner en ligne
 $host = 'localhost';
