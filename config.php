@@ -8,7 +8,7 @@
 // $password = '';
 
 // Connexion à la base des donner en ligne
-$host = 'localhost';
+$host = '127.0.0.1:3306';
 $dbname = 'c2374646c_embauche';
 $username = 'c2374646c_ibro';
 $password = 'IBROibro123+';
